@@ -1,3 +1,8 @@
+
+Original Repository   
+End to End project for Kafka Streams using Spring Cloud Kafka streams    
+https://github.com/TechPrimers/kafka-streams-microservices-example   
+
 # Spring Kafka Streams using Spring Cloud Streams End to End example
 
 ## Endpoint
